@@ -10,7 +10,6 @@ details {
 details[open] {
     /* ouvert */
     width: 300px;
-    width: calc(100px + 20rem);
     transition: width 2s;
     }
  
